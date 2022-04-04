@@ -1,0 +1,18 @@
+header hl {
+   font-size: 40pt;
+   text-transform: uppercase;
+   text-align: center;
+   background: url("bg.jpg") left / auto 100% no-repeat;
+}
+nav {
+   font-size: lбpt;
+   width: 150рх;
+   float: left;
+}
+nav а {
+   display: blосk;
+   margin : l0px 0рх;
+}
+section {
+   margin- left: 170рх;
+}
